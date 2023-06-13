@@ -1,1 +1,1 @@
-[# Android](https://devonfroy.github.io/Android/)
+https://devonfroy.github.io/Android
